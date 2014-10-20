@@ -1,5 +1,5 @@
 class User
-  include AVCloud::User
+  include LeanMotion::User
 
   # fields :column_name
   
